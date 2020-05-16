@@ -4,8 +4,4 @@ The CSV, KMZ, and KML files all contain the same data and can be used in a GIS t
 
 For more information on the primary sources, methods, and analysis, please see my forthcoming article in the journal *Esclavages & post-esclavages / Slaveries & Post-Slaveries*, which is available [here](https://journals.openedition.org/slaveries/263). The article is supposed to appear sometime in 2020. Once published, I will update this Read Me with the DOI and abstract.
 
-Prof. Andrew Sluyter
-Department of Geography and Anthropology
-Louisiana State University
-Baton Rouge, LA 70803
-USA
+Prof. Andrew Sluyter, Department of Geography and Anthropology, Louisiana State University, Baton Rouge, LA 70803, USA
